@@ -1,1 +1,2 @@
+print("hii welcome to github")
 hello this is new file of git
